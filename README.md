@@ -5,7 +5,7 @@ Hi everyone (Alison)!
 ## This is a little Lua raytracer I've been making, based (loosely) off Peter Shirley's 'Ray Tracing in One Weekend'
 
 **Notes:**
-> This project is NOT complete. I am currently at about chapter 5.1 of the book. The current code renders a sphere with normal values
+> This project is basically complete. It doesn't quite do everything, but I'm lazy, and have issues with sticking to projects, so this is as far as I'll get. It just renders a few spheres
 
 > The code is likely terrible. I will not fix it anytime soon.
 
